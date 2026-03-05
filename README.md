@@ -8,5 +8,9 @@ This repository contains SQL queries designed to help data analysts and BI profe
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+## About Me
+Hi there! I'm Kalyani B
 
+I am Kalyani, a Data Analyst with professional experience working with data to uncover meaningful insights. Throughout my career, I have focused on exploring complex datasets, ensuring data quality through thorough cleaning and preparation, and transforming raw information into actionable insights. I regularly work with tools such as SQL, Excel, Power BI, and Tableau to analyze data and build clear, impactful visualizations.
+
+My goal is to continue growing as a data professional, working with organizations that value data-driven thinking and using analytics to solve real business problems.
